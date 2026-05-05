@@ -14,6 +14,7 @@
 </head>
 <body>
     <h1>Skyhosts</h1>
+    <h2 style="color:red;">UPDATED BY HABI</h2>
     <p><strong>Domain:</strong> skyhosts.org</p>
     <p class="slogan">"Turning Vision into Reality"</p>
     <h2>Our Team Members</h2>
